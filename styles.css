@@ -1,0 +1,187 @@
+html {
+  height: 100%;
+}
+
+body {
+    background-color: #f4f1e5;
+    height: 100%;
+}
+
+section {
+    background-color: #f4f1e5;
+}
+
+.radley-regular {
+  font-family: "Radley", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.carlito-regular {
+  font-family: "Carlito", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.name-holder {
+  display: flex;
+  justify-content: center;
+  margin-top: 23.1px;
+}
+
+.name {
+  display: flex;
+  background-color: #9b4819;
+  color: #f4f1e5;
+  font-size: 22pt;
+  width: 269.8px;
+  height: 75.2px;
+  border-radius: 42.16183864697767px;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: #9b4819;
+  font-size: 86.2pt;
+}
+
+h1 > span {
+color: #191919;
+font-style: italic;
+}
+
+.Hello {
+  margin: 6rem 0rem 6rem 0rem;
+}
+
+.Hello > div {
+  font-size: 24pt;
+}
+
+.about-img {
+  background-color: #9b4819;
+  padding: 10px;
+}
+
+h2 {
+  font-family: "Radley", serif;
+  font-weight: 400;
+  font-size: 48pt;
+  color:#9b4819;
+  font-style: italic;
+}
+
+.about-paragraph {
+  font-size: 18pt;
+  margin-bottom: 8rem;
+}
+
+.stline {
+  background-color: #bd8f53;
+}
+
+h3 {
+  font-size: 19.2pt;
+}
+
+h4 {
+  font-size: 12.8pt;
+}
+
+.background-img {
+  background-color: #9b4819;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+}
+
+section {
+  margin-bottom: 8rem;
+}
+
+.card1{
+  display: inline-block;
+  margin-right: 10.8rem;
+}
+
+.card2 {
+  display: inline-block;
+}
+
+.card1 > .stline {
+  width: auto;
+  height: 0.1rem;
+}
+
+.card2 > .stline {
+  width: auto;
+  height: 0.1rem;
+  margin-bottom: 1.5rem;
+}
+
+.img-holder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.projects-card1{
+  display: inline;
+}
+
+.projects-card2 {
+  display: inline;
+  margin-left: 10rem;
+  margin-right: 6rem;
+}
+
+.projects-card3 {
+  display: inline;
+}
+
+.projects-cards {
+  display: flex;
+  justify-content: center;
+  margin-top: 6rem;
+}
+
+.projects-img-holder {
+  margin-bottom: 1rem;
+}
+
+.projects > h4 {
+  font-size: 20pt;
+}
+
+.projects-card1 > .stline {
+  width: 377.2px;
+  height: 0.1rem;
+}
+
+.projects-card2 > .stline {
+  width: 296.9px;
+  height: 0.1rem;
+}
+
+.projects-card3 > .stline {
+  width: 377.2px;
+  height: 0.1rem;
+}
+
+.contact-paragraph {
+  font-size: 20pt;
+}
+
+.footer-section {
+  background-color: #9b4819;
+  color: #f4f1e5;
+}
+
+.nav-link {
+  color: #f4f1e5;
+}
